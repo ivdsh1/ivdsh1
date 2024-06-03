@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Seja bem-vindo ao meu perfil! 👋</h1>
+<p align="center">Olá, eu sou um desenvolvedor aprendiz em Java tentando melhorar minhas habilidades</a>.</p>
 
-<!--
-**ivdsh1/ivdsh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Habilidades</h2>
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Bukkit" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🔥 Meu estado atual: </h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ivdsh1&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Comunidades em que participo</h2>
+<p align="center">
+  
+- [LeafPlugins.com](https://leafplugins.com): Um site onde é disponibilizado vários plugins para Servidores de Minecraft.
+  
+</p>
