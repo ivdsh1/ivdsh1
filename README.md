@@ -3,8 +3,10 @@
 
 <h2 align="center">Habilidades</h2>
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Bukkit" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-d93838?style=for-the-badge">
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-e8c320?style=for-the-badge">
+  <img alt="Bukkit"
+src="https://img.shields.io/badge/Bukkit-205ce8?style=for-the-badge">
 </p>
 
 <h3 align="center">🔥 Meu estado atual: </h3>
@@ -16,5 +18,6 @@
 <p align="center">
   
 - [LeafPlugins.com](https://leafplugins.com): Um site onde é disponibilizado vários plugins para Servidores de Minecraft.
+- [HD Community](https://discord.gg/7dXdXWMFwH): Minha comunidade focada na comunidade Minecraft e outros jogos.
   
 </p>
