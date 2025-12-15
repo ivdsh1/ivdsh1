@@ -18,6 +18,5 @@ src="https://img.shields.io/badge/Bukkit-205ce8?style=for-the-badge">
 <p align="center">
   
 - [LeafPlugins.com](https://leafplugins.com): Um site onde é disponibilizado vários plugins para Servidores de Minecraft.
-- [HD Community](https://discord.gg/7dXdXWMFwH): Minha comunidade focada na comunidade Minecraft e outros jogos.
   
 </p>
